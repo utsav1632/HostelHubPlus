@@ -175,4 +175,18 @@ Some screenshots are provided for reference
 [![Screenshot-2025-08-06-at-4-42-56-PM.png](https://i.postimg.cc/hG7kzsjh/Screenshot-2025-08-06-at-4-42-56-PM.png)](https://postimg.cc/d7wHg8GK)
 
 
+## License
 
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+For any queries or suggestions:
+- **Email:** sanatansingh2002@gmail.com
+- **GitHub:** https://github.com/utsav1632
+
+---
+
+Happy Surfing! 🧩
+
+<p align='center'><b>Made with ❤ by Utsav Raj</b></p>
