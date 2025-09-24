@@ -64,7 +64,7 @@ Designed for four key actorsâ€”Students, Caretakers, Wardens, and Hostel Adminsâ
 Clone the repository:
 
 ```bash
-git clone  https://github.com/Rahulk977/HostelHubPlus.git  
+git clone  https://github.com/utsav1632/HostelHubPlus.git  
 ```
 
 Go to the project directory
